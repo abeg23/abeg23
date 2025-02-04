@@ -12,7 +12,7 @@
 - **Excel & Google Sheets** (Advanced formulas, pivot tables, and automation)
 
 📊 *Tools I Love:*
-- **Excell** (Clean, analyse, and Present)  
+- **Excel** (Clean, analyse, and Present)  
 - **Python** (Pandas, NumPy, Scikit-learn)  
 - **SQL** (MySQL, PostgreSQL)  
 - **Tableau & Power BI**  
