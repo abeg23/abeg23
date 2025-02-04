@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm [Abe]  
 *Data Analyst | Problem Solver | Storyteller with Data*
 
 🔍 Passionate about transforming raw data into actionable insights that drive business growth and innovation.
