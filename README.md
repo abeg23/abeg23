@@ -29,3 +29,11 @@
 - Working on expanding my knowledge of **cloud-based analytics platforms** like AWS, Google Cloud, and Azure
 
 🔗 Check out some of my repositories and contributions below. Feel free to connect with me, and let’s talk data! 🚀
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abeg23/abeg23/output/snake.svg" alt="Snake animation" />
+
+###
